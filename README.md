@@ -1,2 +1,1 @@
-# repositoriosoyhenry
-este es un repositorio de prueba del modulo 2
+este es un proyecto de como clonar un repositorio a mi escritorio local
